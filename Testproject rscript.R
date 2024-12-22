@@ -3,4 +3,5 @@ print("Hello world")
 a <- 1
 b <- 2
 print(a+b)
-3
+Fun = 4
+print(Fun)
