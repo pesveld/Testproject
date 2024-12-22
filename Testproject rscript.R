@@ -5,3 +5,5 @@ b <- 2
 print(a+b)
 Fun = 4
 print(Fun)
+
+Testscring <- "dfsjhdfs"
